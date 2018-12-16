@@ -4,5 +4,5 @@
  * 轮播html+css代码直接使用index.html和index.css代码
  * 在js文件中添加$('.carousel').Carousel()即可
 ###展示地址
-#####https://zhengsongjun.github.io/RotationChart/.
+###https://zhengsongjun.github.io/RotationChart/.
 
